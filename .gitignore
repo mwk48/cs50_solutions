@@ -1,5 +1,7 @@
 #remove excess file
-/*
+*
+!*/
 !*.c
 !*.py
 !*.sql
+**/*testing
