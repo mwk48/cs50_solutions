@@ -4,4 +4,4 @@
 !*.c
 !*.py
 !*.sql
-*testing
+**/[Tt]esting*
